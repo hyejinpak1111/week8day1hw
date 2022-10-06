@@ -10,34 +10,35 @@ function Cars() {
         "information": {
             "model": "Supra",
             "color": "Matte Black",
-            "year": 2021
+            "year": 2023
         }
     },
     {
         "id": 2,
         "make": "Ford",
         "information": {
-            "model": "Mustang",
+            "model": "Explorer",
             "color": "Silver",
             "year": 2018
+            
         }
     },
     {
         "id": 3,
         "make": "Kia",
         "information": {
-            "model": "EV6",
-            "color": "White",
-            "year": 2022
+            "model": "Forte",
+            "color": "white",
+            "year": 2015
         }
     },
     {
         "id": 4,
         "make": "Mercedes-Benz",
         "information": {
-            "model": "G63 AMG",
-            "color": "Green",
-            "year": 2019
+            "model": "CLS-Class",
+            "color": "Black",
+            "year": 2021
         }
     }
   ])
